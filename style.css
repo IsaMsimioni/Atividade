@@ -1,0 +1,48 @@
+body {
+    width: auto;
+    height: 100%;
+    background-color: #dfdfdf;
+}
+
+.tableJogoVelha {
+    background-color: #f0f0f0;
+    border-radius: 15px;
+    margin: 35px auto auto auto;
+}
+
+.cabecalho {
+    margin: auto;
+    width: 20%;
+    text-align: center;
+    background-color: #ffffff;
+    border-radius: 20px;
+}
+
+.cabecalho h1 {
+    padding: 10px;
+}
+
+.celula {
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    background-color: #fff4ff;
+    border-radius: 20px;
+    border-width: 2px;
+    font-size: 24px;
+}
+
+.vezdequem {
+    text-align: center;
+    background-color: #ebebeb;
+    width: 400px;
+    margin: 40px auto auto auto;
+    padding: 1px;
+    border-radius: 8px;
+}
+
+.creditos {
+    text-align: center;
+    font-size: 16px;
+    margin-top: 90px;
+}
